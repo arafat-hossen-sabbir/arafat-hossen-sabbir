@@ -5,7 +5,7 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github.com/yoosabbir.png" alt="Arafat Hossen Sabbir" width="250" height="250" style="border-radius: 50%;" />
+        <img src="https://github.com/yoosabbir.png" alt="Arafat Hossen Sabbir" width="250" height="250" style="border-radius: 50%" />
       </td>
     </tr>
   </table>
@@ -48,7 +48,7 @@
 
 ##  About Me
 
-I am a dedicated Full Stack Developer specializing in the MERN stack, with a passion for building clean, scalable, and user-centric web applications. Since starting my journey in 2020, I have evolved from mastering HTML/CSS to developing complex applications using React, Redux, Node.js, and MongoDB.
+I’m a Junior Web Developer passionate about building responsive, user-friendly web applications using HTML, CSS, Tailwind CSS, JavaScript, and React. I focus on writing clean code, creating dynamic UIs, and delivering efficient, accessible, and scalable user experiences. I continuously improve my skills through projects, problem-solving, and learning performance optimization techniques. I’m eager to grow, contribute, and turn ideas into meaningful digital solutions. Always excited to take on new challenges and learn along the way.
 
 ## 🎓 Education
 
@@ -67,7 +67,7 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="45" />
+ <img src="https://cdn.simpleicons.org/express/6e6e6e" height="45" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="45" />
