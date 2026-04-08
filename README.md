@@ -45,7 +45,7 @@
 
 ##  About Me
 
-I’m a Junior Web Developer passionate about building responsive, user-friendly web applications using HTML, CSS, Tailwind CSS, JavaScript, and React. I focus on writing clean code, creating dynamic UIs, and delivering efficient, accessible, and scalable user experiences. I continuously improve my skills through projects, problem-solving, and learning performance optimization techniques. I’m eager to grow, contribute, and turn ideas into meaningful digital solutions. Always excited to take on new challenges and learn along the way.
+I'm a Junior Web Developer passionate about building responsive, user-friendly web applications using HTML, CSS, Tailwind CSS, JavaScript, and React. I focus on writing clean code, creating dynamic UIs, and delivering efficient, accessible, and scalable user experiences. I continuously improve my skills through projects, problem-solving, and learning performance optimization techniques. I'm eager to grow, contribute, and turn ideas into meaningful digital solutions. Always excited to take on new challenges and learn along the way.
 
 ## 🎓 Education
 
@@ -64,7 +64,7 @@ I’m a Junior Web Developer passionate about building responsive, user-friendly
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" />
- <img src="https://cdn.simpleicons.org/express/6e6e6e" height="45" />
+  <img src="https://cdn.simpleicons.org/express/6e6e6e" height="45" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" />
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="45" />
@@ -78,12 +78,12 @@ I’m a Junior Web Developer passionate about building responsive, user-friendly
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats" height="170" />
+        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafat-hossen-sabbir&count_private=true&theme=react&border_radius=10" alt="streak stats" height="170" />
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" height="170" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=arafat-hossen-sabbir&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" height="170" />
       </a>
     </td>
   </tr>
@@ -91,7 +91,7 @@ I’m a Junior Web Developer passionate about building responsive, user-friendly
  
 <div align="center">
   
-> **"Helping people with my real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
+> **"Helping people with my real-world knowledge. Let's build and automate the future, one pipeline at a time!"**
 
 </div>
 <br>
@@ -103,7 +103,6 @@ I’m a Junior Web Developer passionate about building responsive, user-friendly
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/arafat-hossen-sabbir" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
